@@ -19,13 +19,8 @@ DaProfiler is designed for Educational Purposes only, We accept no responsibilit
 DaProfiler allows you to create a profile on your **target** based in France only.
 The particularity of this program is its ability to find the e-mail addresses of a target via searches on [Skype](https://www.skype.com/), [Pinterest](https://www.pinterest.com) and tests of combining e-mail addresses followed by a check to know if the email address exists or not (Beware of false negatives, the results displayed do not necessarily relate to the target you are looking for if another person has the same name - first name). DaProfiler is also able to check the words of a an instagram bio to find interesting information such as : **Email addresses**, **Paypal.me profiles**,**Sexual Orientation**,**City**,**School**,**Age**,**Ethnicity**,**Religions**,**Hobbies** and more ...
 
-Official website [www.cnil.me/daprofiler/](https://www.cnil.me/daprofiler/)
-
 ## Install
 
-Python 3.8 required
-```bash
-git clone https://github.com/TheRealDalunacrobate/DaProfiler.git
 cd DaProfiler
 pip install -r requirements.txt
 ```
@@ -53,26 +48,9 @@ py profiler.py -n john -ln doe -zp 75012 -json true
 ## Demo
 ![alt text](https://i.ibb.co/XSzG90S/Capture-censored.jpg)
 
-## Api
-
-| Source | Service type | Subscription |
-| :----: | :----------: | :----------: |
-| Leakcheck.net | Breach Search | Premium | 
-
-+ Go to [modules\api_modules](https://github.com/TheRealDalunacrobate/DaProfiler/tree/main/modules/api_modules) then open your API module (ex Leakcheck), replace "YOUR_KEY" to your key, save and quit your text editor.
 
 
-# Connect to LinkedIN API
-+ Go to [modules\linkedin_search](https://github.com/daprofiler/DaProfiler/blob/main/modules/linkedin_search.py) then add your creditentials.
-
-# Contact
-Mail : _daluna_pro@protonmail.ch_. <br>
-Discord : `Dalunacrobate#9010` <br>
-[Official DaProfiler - Discord Server](https://discord.gg/x33VN6Pkea)
 
 
-## Contributions
-All suggestions are welcome.
 
-## Code parts used under license and authors
-+ [Palenath - Instagram Advanced Lookup Function](https://github.com/megadose/toutatis)
+
